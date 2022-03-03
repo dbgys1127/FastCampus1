@@ -31,3 +31,9 @@
 *.out
 *.app
 Project/.vs/
+Project/출력-디버그.txt
+Project/Cpp1_3/Debug/
+Project/Cpp1_4YH/Debug/
+Project/Cpp2_1YH/Debug/
+Project/Cpp2_1YH/x64/
+Project/Cpp2_2Yh/x64/

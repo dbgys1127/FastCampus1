@@ -6,7 +6,7 @@
 int main() // main 함수, 가장 처음 실행 되는 함수
 {
     std::cout << "Hello World !\n"; // std::cout을 이용하여 "Hello World"를 출력
-
+}
 
 // 주석
 // - 소스 코드가 컴파일 될 때 포함 되지 않음
